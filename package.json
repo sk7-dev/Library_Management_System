@@ -1,0 +1,18 @@
+{
+  "name": "library-management-and-book-recommendation-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vite": "^5.4.11"
+  }
+}
