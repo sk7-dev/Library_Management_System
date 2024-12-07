@@ -7,7 +7,7 @@ import "bootstrap/dist/js/bootstrap.js";
 import axios from "axios";
 axios.defaults.withCredentials = true;
 
-export const backend_server = `http://localhost:5174/`;
+export const backend_server = `http://localhost:5173/`;
 
 ReactDOM.createRoot(document.getElementById("root")).render(<App></App>);
 // <React.StrictMode>
